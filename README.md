@@ -8,8 +8,9 @@
 I'm passionate about building things. I make responsive websites, competitive algorithms, quantum programs and robotics prototypes.  
 Currently, I'm getting into BASIC and Assembly, as my ultimate goal of building my own operating system.
 
-![ELahiani's github stats](https://github-readme-stats.vercel.app/api?username=ELahiani&theme=gruvbox&show_icons=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELahiani&theme=gruvbox&show_icons=true" alt="ELahiani's GitHub stats" />
+</p>
 ---
 
 ## Tech Toolbox
