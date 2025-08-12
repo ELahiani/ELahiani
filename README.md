@@ -2,6 +2,8 @@
 
 **Aspiring Computational Physicist** | **Web Developer** | **Robotics Enthusiast** | **Quantum Computing Enjoyer**
 
+> Life is like riding a bicycle. To keep your balance, you must keep moving.” — Albert Einstein
+
 ---
 
 ## About Me
@@ -45,9 +47,5 @@ Currently, I'm getting into BASIC and Assembly, as my ultimate goal of building 
 - **GitHub:** [github.com/ELahiani](https://github.com/ELahiani)
 - **LinkedIn:** [linkedin.com/in/eyalahiani1](https://linkedin.com/in/eyalahiani1)
 - **Email:** eyalahiani404@gmail.com
-
----
-
-> Life is like riding a bicycle. To keep your balance, you must keep moving.” — Albert Einstein
 
 ---
