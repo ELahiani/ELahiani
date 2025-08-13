@@ -8,10 +8,10 @@
 
 ## About Me
 I'm passionate about building things. I make responsive websites, competitive algorithms, quantum programs and robotics prototypes.  
-Currently, I'm getting into BASIC and Assembly, as my ultimate goal of building my own operating system.
+Currently, I'm getting into BASIC and Assembly, as my ultimate goal of building my own operating system ✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELahiani&theme=gruvbox&show_icons=true" alt="ELahiani's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ELahiani&theme=radical&show_icons=true" alt="ELahiani's GitHub stats" />
 </p>
 
 ---
@@ -40,12 +40,5 @@ Currently, I'm getting into BASIC and Assembly, as my ultimate goal of building 
 - **TechGirls U.S. Exchange Program** – U.S. Department of State (2024)
 - **FIRST Global Challenge Awards** – Discover and Recover (Silver), Education, Outstanding Mentor, Enthusiasm
 - **Qubit by Qubit Top 1%** – Introduction to Quantum Computing
-
----
-
-## Connect with Me
-- **GitHub:** [github.com/ELahiani](https://github.com/ELahiani)
-- **LinkedIn:** [linkedin.com/in/eyalahiani1](https://linkedin.com/in/eyalahiani1)
-- **Email:** eyalahiani404@gmail.com
 
 ---
